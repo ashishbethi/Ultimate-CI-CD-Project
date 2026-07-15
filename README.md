@@ -2,7 +2,7 @@
 
 ![cicd overview](https://github.com/rajeswarithota1715/CICD/blob/0392a9ee300b1f1e5d6d9283ba64bf840a1fe90d/Jdenkins%20cicd.png)
  
-###  Steps to follow.
+###  Steps to follow
 
 1.  Create an EC2 instance type of t2.large as we have lot's of tooles to install
 2.  login to EC2 instance
